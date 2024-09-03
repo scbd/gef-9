@@ -8,5 +8,6 @@ export default {
 <template>
     <div>
         <h1>NFP</h1>
+        <RouterLink to="/">URL</RouterLink>
     </div>
 </template>
